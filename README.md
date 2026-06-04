@@ -24,5 +24,5 @@ I build intelligent systems using LLMs, RAG pipelines, and workflow automation.
 | [AgriSage](https://github.com/m-hamzaj/AgriSage-) | Tomato leaf disease detection using CNN | Python · Flask · VGG16 |
 
 ## 📫 Connect
-- 💼 [LinkedIn](www.linkedin.com/in/muhammad-hamza-javaid-55b18b3b0)
+- 💼 [LinkedIn](https://www.linkedin.com/in/m-hamzaj70)
 - 📧 mhamzajavaid370@gmail.com
