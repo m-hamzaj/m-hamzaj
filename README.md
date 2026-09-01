@@ -1,28 +1,29 @@
-# Hi, I'm Muhammad Hamza Javaid 👋
+# Muhammad Hamza Javaid
 
-AI Automation Developer based in Lahore, Pakistan.
-I build intelligent systems using LLMs, RAG pipelines, and workflow automation.
+AI automation developer based in Lahore, Pakistan. I build RAG pipelines, tool-calling agents, and n8n automation — and I measure them against a real eval set instead of eyeballing whether they work.
 
-## 🛠️ What I Build
-- **RAG Systems** — AI agents that retrieve from documents and answer accurately
-- **Automation Workflows** — n8n pipelines that replace manual business processes
-- **AI Agents** — LLM-powered systems for lead qualification, CV screening, sales support
-- **Computer Vision** — CNN models for real-world detection problems
+## Currently building
 
-## 🔧 Tech Stack
-**AI & Automation:** LangChain · ChromaDB · n8n · Groq · OpenAI API · RAG  
-**Languages:** Python · JavaScript · Java  
-**Web:** HTML · CSS · Flask · Streamlit  
-**Database:** SQL · phpMyAdmin · Vector DB  
+**[rag](https://github.com/m-hamzaj/rag)** — question answering over a scraped article corpus, evaluated end-to-end against a hand-written question set. Chunk → embed → retrieve → cite, then a LangChain tool-calling agent for questions one retrieval pass can't answer.
 
-## 🚀 Projects
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [SaaS Sales Assistant](https://github.com/m-hamzaj/saas-sales-bot) | RAG chatbot that answers from product docs | LangChain · ChromaDB · Groq · Streamlit |
-| [AI Lead Qualification System](https://github.com/m-hamzaj/ai-lead-qualification-system) | Automated lead scoring and routing agent | n8n · OpenAI · Google Sheets · Gmail |
-| [AI CV Screener](https://github.com/m-hamzaj/ai-cv-screener) | CV screening automation agent | n8n · LLM |
-| [AgriSage](https://github.com/m-hamzaj/AgriSage-) | Tomato leaf disease detection using CNN | Python · Flask · VGG16 |
+- 18/20 (90%) answer-correct baseline, reached by sweeping chunk size and retrieval mode against the same eval set and picking the winner with evidence
+- Agent measured head-to-head against plain RAG: wins on multi-hop questions plain RAG fails outright, loses on the easy set at several times the cost and latency — the tradeoff is written down, not assumed
 
-## 📫 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/m-hamzaj70)
-- 📧 mhamzajavaid370@gmail.com
+## Other projects
+
+- **[saas-sales-bot](https://github.com/m-hamzaj/saas-sales-bot)** — RAG-powered sales support chatbot
+- **[ai-lead-qualification-system](https://github.com/m-hamzaj/ai-lead-qualification-system)** — automated lead scoring
+- **[ai-cv-screener](https://github.com/m-hamzaj/ai-cv-screener)** — CV/resume screening agent
+- **[AgriSage](https://github.com/m-hamzaj/AgriSage-)** — crop disease detection with a CNN
+
+## Also
+
+- [Portfolio site](https://portfolio-mu-lovat-9ptcmwjghw.vercel.app) — Next.js, Tailwind
+
+## Stack
+
+`Python` `JavaScript` `LangChain` `n8n` `ChromaDB` `OpenAI` `Groq` `Flask` `Streamlit`
+
+## Reach me
+
+[Email](mailto:mhamzajavaid370@gmail.com) · [LinkedIn](https://www.linkedin.com/in/m-hamzaj70) · [GitHub](https://github.com/m-hamzaj)
