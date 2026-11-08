@@ -12,6 +12,7 @@ I build RAG pipelines, tool-calling agents, and n8n automation — and I measure
 
 ## Other projects
 
+- **[cafe-os](https://github.com/m-hamzaj/cafe-os)** — cafe POS with ingredient-level inventory, costs, purchase orders and a Groq daily summary ([live](https://cafe-os-m-hamzaj.vercel.app))
 - **[saas-sales-bot](https://github.com/m-hamzaj/saas-sales-bot)** — RAG-powered sales support chatbot
 - **[ai-lead-qualification-system](https://github.com/m-hamzaj/ai-lead-qualification-system)** — automated lead scoring
 - **[ai-cv-screener](https://github.com/m-hamzaj/ai-cv-screener)** — CV/resume screening agent
@@ -25,6 +26,9 @@ I build RAG pipelines, tool-calling agents, and n8n automation — and I measure
 
 <div align="center">
 
+![TypeScript](https://img.shields.io/badge/TypeScript-14151C?style=for-the-badge&logo=typescript&logoColor=35E6FF)
+![Next.js](https://img.shields.io/badge/Next.js-14151C?style=for-the-badge&logo=nextdotjs&logoColor=35E6FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14151C?style=for-the-badge&logo=postgresql&logoColor=35E6FF)
 ![Python](https://img.shields.io/badge/Python-14151C?style=for-the-badge&logo=python&logoColor=35E6FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-14151C?style=for-the-badge&logo=javascript&logoColor=35E6FF)
 ![LangChain](https://img.shields.io/badge/LangChain-14151C?style=for-the-badge&logoColor=35E6FF)
