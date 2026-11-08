@@ -12,7 +12,7 @@ I build RAG pipelines, tool-calling agents, and n8n automation — and I measure
 
 ## Other projects
 
-- **[cafe-os](https://github.com/m-hamzaj/cafe-os)** — cafe POS with ingredient-level inventory, costs, purchase orders and a Groq daily summary ([live](https://cafe-os-m-hamzaj.vercel.app))
+- **[cafe-os](https://github.com/m-hamzaj/cafe-os)** — cafe POS with ingredient-level inventory, costs, purchase orders and a Groq daily summary ([live](https://cafe-os-theta-three.vercel.app))
 - **[saas-sales-bot](https://github.com/m-hamzaj/saas-sales-bot)** — RAG-powered sales support chatbot
 - **[ai-lead-qualification-system](https://github.com/m-hamzaj/ai-lead-qualification-system)** — automated lead scoring
 - **[ai-cv-screener](https://github.com/m-hamzaj/ai-cv-screener)** — CV/resume screening agent
